@@ -21,4 +21,12 @@
 * cardiac surgery
 * X-ray endovascular surgery
 
+## Contacts
+* [Instagram: maria_dudko](https://www.instagram.com/maria_dudko/)
+* Tel.: +37529223****
+* Email: maria.dudko2016@yandex.ru
+* Region: Gomel, Belarus
+* [Github Maria Dudko](https://github.com/mariadudko) 
+
+
 
