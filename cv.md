@@ -6,3 +6,7 @@
 * 30 years old
 * I have e boyfriend 
 * No children
+
+## Education
+* 2017-2019 "Gomel State Medical College"
+* 2021 March - June "Belarusian State Medical College"
