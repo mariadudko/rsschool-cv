@@ -1,6 +1,6 @@
 # Maria Dudko
 
-![photo](img/photo.jpeg) 
+![photo](img/DSC01397.JPG) 
 
 ## About me
 * 30 years old
