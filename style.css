@@ -8,3 +8,11 @@
     src: url("assets/fonts/RobotoRegular.ttf");
     font-weight: 300;
   }
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Roboto';
+  }
