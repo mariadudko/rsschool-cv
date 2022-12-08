@@ -14,16 +14,21 @@
   }
   
   body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     font-family: 'Roboto';
     font-style: normal;
     font-size: 16px;
-    font-weight: 400px;
     line-height: 1.2;
-    color: rgb(83, 80, 80);
+    color: rgb(118, 110, 110);
     margin: 0 ;
     padding: 0;
   }
-
+h2 {
+  letter-spacing: 10px;
+  color: black;
+}
   .container {
     max-width: 1220px;
     margin: 0 auto;
@@ -70,11 +75,10 @@ margin-right: 42px;
 } 
 
 
-
-
 /*Header style end*/
 
-/*Section style start*/
+/*Section-name style start*/
+
 .main-container{
   display: flex;
   flex-wrap: wrap;
@@ -83,13 +87,61 @@ margin-right: 42px;
 
 .section{
   width: 50%;
+  padding: 20px 50px;
 }
 
-.photo {
-  width: 200px;
-  height: 200px;
+.section-name {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 50px;
+  color: rgb(156, 139, 170);
 }
 
-/*Section style end*/
+.section-photo {
+  width: 250px;
+  height: 250px;
+  border-radius: 70%;
+  box-shadow: 0px 0px 8px 1px rgb(192, 178, 214)
+}
 
- 
+.name-post {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 10px;
+  text-shadow: 6px 6px 8px rgb(192, 178, 214);
+}
+
+/*Section-name style end*/
+
+/*Section-information style start*/
+
+
+
+/*Section-information style end*/
+
+ /*Footer style start*/
+
+ .footer {
+  background-color: rgb(156, 139, 170);
+  padding: 30px 0;
+ }
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact-link {
+  text-decoration: none;
+  color:  wheat;
+}
+ li {
+  list-style-type: none;
+  line-height: 1.5;
+ }
+ /*Footer style end*/
